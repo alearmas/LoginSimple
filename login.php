@@ -34,13 +34,13 @@
         </div>
 
         <div class="form-label-group">
-            <input type="text" class="form-control" name="Usuario" placeholder="Usuario">
-            <label for="inputEmail">Usuario</label>
+            <input type="text" class="form-control" id="username" name="Usuario" placeholder="Usuario">
+            <label for="username">Usuario</label>
         </div>
 
         <div class="form-label-group">
             <input type="password" id="inputPassword" class="form-control" name="Password" placeholder="Password">
-            <label for="inputPassword">Password</label>
+            <label for="password">Password</label>
         </div>
         <p>Sino tienes cuenta registrate <a href="register.php">aquí</a>.</p>
         <div class="text-center mb-4">
